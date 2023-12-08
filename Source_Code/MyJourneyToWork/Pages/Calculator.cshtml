@@ -1,0 +1,78 @@
+﻿@page
+@model MyJourneyToWork.Pages.CalculatorModel
+@{
+    ViewData["Title"] = "Calculate my journey to work:";
+}
+
+
+<h4>Calculate My Journey to Work</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" id="form1">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="calculator.numDays" class="control-label"></label>
+                <input asp-for="calculator.numDays" class="form-control" />
+                @Html.ValidationMessageFor(model => model.calculator.numDays, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <label asp-for="calculator.distance" class="control-label"></label>
+                <input asp-for="calculator.distance" class="form-control" />
+                @Html.ValidationMessageFor(model => model.calculator.distance, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <label asp-for="calculator.milesOrKms" class="control-label"></label>
+                @Html.DropDownListFor(model => model.calculator.milesOrKms,
+                new List<SelectListItem>{
+                new SelectListItem() {Text = "Miles", Value= "miles"},
+                new SelectListItem() {Text = "Kilometers", Value= "kms"}
+                },
+                new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.calculator.milesOrKms, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <label asp-for="calculator.transportMode" class="control-label"></label>
+                @Html.DropDownListFor(model => model.calculator.transportMode,
+                new List<SelectListItem>{
+                new SelectListItem() {Text = "Petrol", Value= "petrol"},
+                new SelectListItem() {Text = "Diesel", Value= "deisel"},
+                new SelectListItem() {Text = "Hybrid", Value= "hybrid"},
+                new SelectListItem() {Text = "Electric", Value= "electric"},
+                new SelectListItem() {Text = "Motorbike", Value= "motorbike"},
+                new SelectListItem() {Text = "Electric Bike or Scooter", Value= "electricbike"},
+                new SelectListItem() {Text = "Train", Value= "train"},
+                new SelectListItem() {Text = "Bus", Value= "bus"},
+                new SelectListItem() {Text = "Tram", Value= "tram"},
+                new SelectListItem() {Text = "Cycling", Value= "cycling"},
+                new SelectListItem() {Text = "Walking", Value= "walking"}
+                },
+                new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.calculator.transportMode, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Calculate" class="btn btn-primary mt-3 mb-4" />
+            </div>
+            @if (ViewData.ModelState.IsValid)
+            {
+                <div class="form-group">
+                    <label asp-for="calculator.sustainabilityWeighting" class="control-label"></label>
+                    @Html.DisplayFor(model => model.calculator.sustainabilityWeighting, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            }
+
+            @if (ViewData.ModelState.IsValid)
+            {
+                <div class="form-group mt-5">
+                    <label asp-for="calculator.AverageDailySustainability" class="control-label fw-bold"></label>
+                    @Html.DisplayFor(model => model.calculator.AverageDailySustainability, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            }
+        </form>
+    </div>
+</div>
+
+<script>
+
+
+</script>

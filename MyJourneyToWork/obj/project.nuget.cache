@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ux+2gxoTs50yA9Yb9D4UTpf7Q4mU8mLFfJoOHn78iNA+ZPZ3Rle6p5YafGZPoWYHFhT+HjylfwR5ohig7t+GYg==",
+  "success": true,
+  "projectFilePath": "D:\\Bsc(Hons) Cloud Computing with Dev Ops\\01 Semester 1\\04 Dev Ops\\CAs\\CA2\\Source_Code\\MyJourneyToWork\\MyJourneyToWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkode\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dkode\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dkode\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,106 @@
+# Docker
+# Build and push an image to Azure Container Registry
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+- main
+
+resources:
+- repo: self
+
+variables:
+  # Container registry service connection established during pipeline creation
+  dockerRegistryServiceConnection: '0acaad3b-df45-4622-bba8-9af2e871e0eb'
+  imageRepository: 'journeytoworkca'
+  containerRegistry: 'journeytowalk.azurecr.io'
+  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
+  tag: '$(Build.BuildId)'
+
+  # Agent VM image name
+  vmImageName: 'ubuntu-latest'
+
+stages:
+- stage: BuildDev
+  displayName: Build and push to Dev
+  jobs:
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+      # name: default
+    steps:
+    - task: Docker@2
+      displayName: Build and push an image to container registry
+      inputs:
+        command: buildAndPush
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+        containerRegistry: $(dockerRegistryServiceConnection)
+        tags: |
+          $(tag)
+
+    - task: AzureRmWebAppDeployment@4
+      inputs:
+        ConnectionType: 'AzureRM'
+        azureSubscription: 'Azure for Students (9298de21-cef6-4f5a-8ba7-9f3bfad1ddf0)'
+        appType: 'webAppContainer'
+        WebAppName: 'devJourneytoWork'
+        DockerNamespace: 'journeytowalk.azurecr.io'
+        DockerRepository: 'journeytoworkca'
+        DockerImageTag: '$(Build.BuildId)'
+
+  - job: ManualValidation
+    displayName: Manual Validation
+    dependsOn: Build
+    pool: server
+    steps:
+    - task: ManualValidation@0
+      inputs:
+        notifyUsers: 'X00204989@myTUDublin.ie'
+        instructions: "Hi, please validate for Staging"
+
+
+- stage: DeployStaging
+  displayName: Build and push to Staging
+  jobs:
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+    steps:
+    - task: AzureRmWebAppDeployment@4
+      inputs:
+        ConnectionType: 'AzureRM'
+        azureSubscription: 'Azure for Students (9298de21-cef6-4f5a-8ba7-9f3bfad1ddf0)'
+        appType: 'webAppContainer'
+        WebAppName: 'stagingJourneytoWork'
+        DockerNamespace: 'journeytowalk.azurecr.io'
+        DockerRepository: 'journeytoworkca'
+        DockerImageTag: '$(Build.BuildId)'
+
+  - job: ManualValidation
+    displayName: Manual Validation
+    dependsOn: Build
+    pool: server
+    steps:
+    - task: ManualValidation@0
+      inputs:
+        notifyUsers: 'X00204989@myTUDublin.ie'
+        instructions: "Hi, please validate for production"
+- stage: DeployProduction
+  displayName: Build and push to Production
+  jobs:
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+    steps:
+    - task: AzureRmWebAppDeployment@4
+      inputs:
+        ConnectionType: 'AzureRM'
+        azureSubscription: 'Azure for Students (9298de21-cef6-4f5a-8ba7-9f3bfad1ddf0)'
+        appType: 'webAppContainer'
+        WebAppName: 'JourneytoWork'
+        DockerNamespace: 'journeytowalk.azurecr.io'
+        DockerRepository: 'journeytoworkca'
+        DockerImageTag: '$(Build.BuildId)'

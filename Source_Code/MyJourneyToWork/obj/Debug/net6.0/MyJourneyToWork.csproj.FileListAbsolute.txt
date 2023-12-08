@@ -1,0 +1,66 @@
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.staticwebassets.runtime.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.exe
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.deps.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.runtimeconfig.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.pdb
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.AssemblyInfo.cs
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.MyJourneyToWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.build.MyJourneyToWork.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyJourneyToWork.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyJourneyToWork.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\scopedcss\bundle\MyJourneyToWork.styles.css
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\scopedcss\projectbundle\MyJourneyToWork.bundle.scp.css
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.csproj.CopyComplete
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\refint\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.pdb
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.genruntimeconfig.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net6.0\ref\MyJourneyToWork.dll
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\appsettings.Development.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\appsettings.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.staticwebassets.runtime.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.exe
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.deps.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.runtimeconfig.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.dll
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\MyJourneyToWork.pdb
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\bin\Debug\net6.0\nunit.framework.dll
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.csproj.AssemblyReference.cache
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.AssemblyInfoInputs.cache
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.AssemblyInfo.cs
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.csproj.CoreCompileInputs.cache
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.MvcApplicationPartsAssemblyInfo.cache
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.RazorAssemblyInfo.cache
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.RazorAssemblyInfo.cs
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.MyJourneyToWork.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.build.MyJourneyToWork.props
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyJourneyToWork.props
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyJourneyToWork.props
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\scopedcss\bundle\MyJourneyToWork.styles.css
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\scopedcss\projectbundle\MyJourneyToWork.bundle.scp.css
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.csproj.CopyComplete
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.dll
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\refint\MyJourneyToWork.dll
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.pdb
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\MyJourneyToWork.genruntimeconfig.cache
+D:\Bsc(Hons) Cloud Computing with Dev Ops\01 Semester 1\04 Dev Ops\CAs\CA2\Source_Code\MyJourneyToWork\obj\Debug\net6.0\ref\MyJourneyToWork.dll

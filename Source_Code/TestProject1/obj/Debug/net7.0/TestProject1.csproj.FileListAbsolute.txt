@@ -1,0 +1,270 @@
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\CoverletSourceRootsMapping
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\testhost.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.deps.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.runtimeconfig.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\appsettings.Development.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\appsettings.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.staticwebassets.runtime.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.exe
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\testhost.exe
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.engine.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.engine.api.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.engine.core.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\testcentric.engine.metadata.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.deps.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.runtimeconfig.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.pdb
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.framework.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.pdb
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.csproj.AssemblyReference.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.AssemblyInfoInputs.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.AssemblyInfo.cs
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.csproj.CoreCompileInputs.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.csproj.CopyComplete
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\refint\TestProject1.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.pdb
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.genruntimeconfig.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\obj\Debug\net7.0\ref\TestProject1.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\BoDi.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Gherkin.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\TechTalk.SpecFlow.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\SpecFlow.Internal.Json.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.deps.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.runtimeconfig.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\testhost.exe
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\testhost.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.staticwebassets.runtime.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.exe
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.deps.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.runtimeconfig.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\TestProject1.pdb
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\BoDi.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Gherkin.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\TechTalk.SpecFlow.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\SpecFlow.Internal.Json.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\MyJourneyToWork.pdb
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.csproj.CopyComplete
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\refint\TestProject1.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.pdb
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\TestProject1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\TestProject1\obj\Debug\net7.0\ref\TestProject1.dll

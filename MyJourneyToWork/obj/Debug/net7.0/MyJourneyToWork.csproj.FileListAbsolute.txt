@@ -1,0 +1,90 @@
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\appsettings.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.staticwebassets.runtime.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.exe
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.deps.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.runtimeconfig.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.dll
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.pdb
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.AssemblyInfoInputs.cache
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.AssemblyInfo.cs
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.CoreCompileInputs.cache
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.RazorAssemblyInfo.cache
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.RazorAssemblyInfo.cs
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.MyJourneyToWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.build.MyJourneyToWork.props
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyJourneyToWork.props
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyJourneyToWork.props
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\scopedcss\bundle\MyJourneyToWork.styles.css
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\scopedcss\projectbundle\MyJourneyToWork.bundle.scp.css
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.dll
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\refint\MyJourneyToWork.dll
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.pdb
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.genruntimeconfig.cache
+C:\Users\dkode\Source\Repos\Devops-CA2-2023\MyJourneyToWork\obj\Debug\net7.0\ref\MyJourneyToWork.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\appsettings.Development.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\appsettings.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.staticwebassets.runtime.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.exe
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.deps.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.runtimeconfig.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.pdb
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\nunit.framework.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.AssemblyReference.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.AssemblyInfoInputs.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.AssemblyInfo.cs
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.CoreCompileInputs.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.RazorAssemblyInfo.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.RazorAssemblyInfo.cs
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.MyJourneyToWork.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.build.MyJourneyToWork.props
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyJourneyToWork.props
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyJourneyToWork.props
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.build.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.development.json
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\scopedcss\bundle\MyJourneyToWork.styles.css
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\scopedcss\projectbundle\MyJourneyToWork.bundle.scp.css
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.CopyComplete
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\refint\MyJourneyToWork.dll
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.pdb
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.genruntimeconfig.cache
+E:\Ammar Solution-20230925T223105Z-001\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\ref\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.staticwebassets.runtime.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\MyJourneyToWork.exe
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.AssemblyInfo.cs
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.MyJourneyToWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.build.MyJourneyToWork.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyJourneyToWork.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyJourneyToWork.props
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\scopedcss\bundle\MyJourneyToWork.styles.css
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\scopedcss\projectbundle\MyJourneyToWork.bundle.scp.css
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.csproj.CopyComplete
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\refint\MyJourneyToWork.dll
+C:\Users\HP\Desktop\Jr_Worktest\Jr_Work\MyJourneyToWork\obj\Debug\net7.0\MyJourneyToWork.pdb
